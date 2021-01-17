@@ -10,3 +10,14 @@ DogFish Chess Program
 		 *  i.e 8th rank on the chess board is the 7th row in the Array, 
 		 *  and the square on the first file is at 0th position  
 		 * */
+COMPILATION
+-----------
+parent_dir_to_dogfish_folder$ javac -sourcepath DogFish DogFish/Main.java
+/*This will generate the compiled bytecode in the DogFish directory.*/
+
+EXECUTION
+----------
+parent_dir_to_dogfish$ javac -sourcepath DogFish DogFish/Main.java
+java -classpath DogFish Main
+
+		 
