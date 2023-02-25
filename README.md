@@ -14,6 +14,6 @@ parent_dir_to_dogfish_folder$ javac -sourcepath DogFish DogFish/Main.java
 
 Execution
 ----------
-parent_dir_to_dogfish$ java -classpath DogFish Main
+dogfish_folder$ java Main
 
 		 
